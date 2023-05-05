@@ -4,11 +4,14 @@
   "description": "this is just a testing",
   "main": "index.js",
   "scripts": {
-    "test": "run"
+    "test": "jest"
   },
   "keywords": [
     "testing"
   ],
   "author": "Raman Pratap",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
 }
