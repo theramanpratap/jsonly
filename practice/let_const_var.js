@@ -50,6 +50,8 @@ const getResult = () => {
 
 getResult();  // Prints chikoo
 
+
+
 //const fruit2 = 'grapes'; // Error
  
 //fruit2 = 'orange'; // Error
